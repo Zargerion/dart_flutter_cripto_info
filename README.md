@@ -1,16 +1,11 @@
-# test_app
+# Dart Flutter Async Request API to Get List of Cripto Coins. (List of Data, Sorting, State Management, Dynamic Pages)
 
-A new Flutter project.
+First Flutter project.
 
-## Getting Started
+## To run...
 
-This project is a starting point for a Flutter application.
+If you want to run it on all platforms, you need this ```https://dart.dev/get-dart```, ```https://docs.flutter.dev/get-started/install/windows``` and ```https://developer.android.com/studio```.
+Come to watch guids how to set. That's a little not easy.
 
-A few resources to get you started if this is your first Flutter project:
+<iframe width="560" height="315" src="https://i.gyazo.com/e6834c2768bc0aba7e2aa14dc5944e1d.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
