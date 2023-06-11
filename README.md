@@ -7,5 +7,5 @@ First Flutter project.
 If you want to run it on all platforms, you need this ```https://dart.dev/get-dart```, ```https://docs.flutter.dev/get-started/install/windows``` and ```https://developer.android.com/studio```.
 Come to watch guids how to set. That's a little not easy.
 
-<iframe width="560" height="315" src="https://i.gyazo.com/e6834c2768bc0aba7e2aa14dc5944e1d.mp4" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Watch the video](https://i.gyazo.com/9aead42cb069eae9956e141f30f76f19.png)](https://i.gyazo.com/e6834c2768bc0aba7e2aa14dc5944e1d.mp4)
 
